@@ -8,7 +8,7 @@ Protocol for distributed search based on decentralized Peer-to-Peer network.
 
 ### COMPONENTS:
 
-![Program Architecture](images/Architecture.JPG)
+![Program Architecture](images/SuperPeerClient.jpg)
 
 #### Super Peer
 The Super peer is based on socket implementation using threads. Each Super-peer acts as an Index Server which maintains the shared directory from the leaf nodes
